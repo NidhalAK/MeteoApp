@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MeteoApp</string>
+
+    <string name="go">Go</string>
+    <string name="msg_network_error">Vous n’êtes pas connecté à internet.</string>
+    <string name="title_no_internet_connexion">Connexion perdue</string>
+    <string name="title_ws_problem">Un problème est survenu</string>
+    <string name="ok">OK</string>
+    <string name="restart">Recommencer</string>
+
+    <string name="temperature_in_celsius">%1$.0f°</string>
+    <string name="progress_bar_value"> %1$s %%</string>
+    <string name="felt_temperature">Ressenti %1$.0f°</string>
+    <string name="max_min_temp">%1$.0f° / %2$.0f°</string>
+
+    <string name="first_waiting_msg">Nous téléchargeons les données…</string>
+    <string name="second_waiting_msg">C’est presque fini…</string>
+    <string name="third_waiting_msg">Plus que quelques secondes avant d’avoir le résultat…</string>
+
+
+    <string name="city_rennes">Rennes</string>
+    <string name="city_paris">Paris</string>
+    <string name="city_nantes">Nantes</string>
+    <string name="city_bordeaux">Bordeaux</string>
+    <string name="city_lyon">Lyon</string>
+    <string name="weather_image">Weather Image</string>
+
+</resources>
